@@ -1,0 +1,6 @@
+URL to GIT:
+https://github.com/Alvaro-Maldo/Custom_Library.git
+
+URL to pyplot
+
+https://pypi.org/project/pyquirrinds/
